@@ -1,0 +1,23 @@
+{
+  "name": "thezmi/image-orientation-fix",
+  "description": "Fix image orientation by exif data in it",
+  "version": "1.0.0",
+  "license": "MIT",
+  "homepage": "https://github.com/theZMI/components_imageOrientationFix",
+  "authors": [
+    {
+      "name": "theZMI",
+      "homepage": "https://github.com/theZMI",
+      "email": "zmigpost@gmail.com",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php" : ">=7.1"
+  },
+  "autoload": {
+    "files": [
+      "src/fix_orientation.php"
+    ]
+  }
+}
