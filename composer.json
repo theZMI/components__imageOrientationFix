@@ -3,7 +3,7 @@
   "description": "Fix image orientation by exif data in it",
   "version": "1.0.0",
   "license": "MIT",
-  "homepage": "https://github.com/theZMI/components_imageOrientationFix",
+  "homepage": "https://github.com/theZMI/components__imageOrientationFix",
   "authors": [
     {
       "name": "theZMI",
